@@ -1,9 +1,11 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Astrology Knowledge Base
 ---
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+
+Welcome to my Astrology Knowledge Base! This site will be my space to collect notes, insights, and personal reflections on zodiac signs, planets, houses, and more.
 
 ## Editing pages
 
