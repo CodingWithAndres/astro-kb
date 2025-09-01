@@ -1,0 +1,1 @@
+Hi! I’m Andres, and I’m passionate about astrology. This knowledge base is my semester-long project to explore zodiac signs, placements, and fun astrology insights.
