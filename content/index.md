@@ -7,6 +7,15 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 
 Welcome to my Astrology Knowledge Base! This site will be my space to collect notes, insights, and personal reflections on zodiac signs, planets, houses, and more.
 
+## Main Categories
+
+- [[astrology-basics/index|Astrology Basics]]
+- [[elements-and-modalities/index|Elements and Modalities]]
+- [[zodiac-signs/index|Zodiac Signs]]
+- [[planets-and-influence/index|Planets and Their Influence]]
+- [[houses-and-aspects/index|Houses and Aspects]]
+- [[natal-charts/index|Natal Charts]]
+- [[compatibility-and-synastry/index|Compatibility and Synastry]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
