@@ -16,4 +16,4 @@ Taurus appreciates the bold energy of [[aries]] but may find them overwhelming a
 ## Fun Fact
 Ruled by Venus, Taurus loves all things luxurious and beautiful.
 
-![Taurus Symbol](https://www.yourtango.com/sites/default/files/2020/800px-Taurus.svg.png)
+![Taurus Symbol](https://symbolikon.com/wp-content/uploads/edd/2019/09/astrology-taurus-bold-400w.png)

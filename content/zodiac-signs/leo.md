@@ -16,4 +16,4 @@ Leos find joy in [[aries]] adventurous nature and can learn patience from [[taur
 ## Fun Fact
 Ruled by the Sun, Leo exudes warmth and vitality wherever they go.
 
-![Leo Symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Leo_symbol_%28bold%29.svg/1200px-Leo_symbol_%28bold%29.svg.png)
+![Leo Symbol](https://symbolikon.com/wp-content/uploads/edd/2019/09/astrology-leo-bold-400w.png)

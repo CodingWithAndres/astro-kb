@@ -16,4 +16,4 @@ Aries often pairs well with [[leo]] for shared energy and excitement. They may c
 ## Fun Fact
 Ruled by Mars, Aries is often drawn to action and leadership.
 
-![Aries Symbol](https://symbolikon.com/wp-content/uploads/edd/2019/09/astrology-aries-bold-400w.png")
+![Aries Symbol](https://symbolikon.com/wp-content/uploads/edd/2019/09/astrology-aries-bold-400w.png)
