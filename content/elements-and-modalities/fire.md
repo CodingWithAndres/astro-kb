@@ -4,7 +4,7 @@ title: Fire Signs
 
 # Fire Signs 🔥
 
-**Signs**: [[Aries]], [[Leo]], [[Sagittarius]]  
+**Signs**: [[aries|Aries]], [[leo|Leo]], [[sagittarius|Sagittarius]]  
 **Element Traits**: Passionate, energetic, bold  
 
 ## Overview  
@@ -17,7 +17,7 @@ Fire signs embody energy, inspiration, and action. They bring excitement, courag
 - Sometimes impulsive  
 
 ## Relationships  
-Fire signs thrive with **[[Air]] signs**, who fuel their flames with ideas and curiosity. They may clash with **[[Water]] signs**, who can find them overwhelming, but both bring growth to one another.  
+Fire signs thrive with **[[air|Air]]** signs, who fuel their flames with ideas and curiosity. They may clash with **[[water|Water]]** signs, who can find them overwhelming, but both bring growth to one another.  
 
 > “Fire can warm and inspire - or burn if left unchecked.”
 
