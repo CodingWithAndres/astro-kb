@@ -1,7 +1,9 @@
 ---
 title: Element and Modalities
 ---
-Learn about the four elements (Fire, Earth, Air, Water) and the three modalities (Cardinal, Fixed, Mutable) that influence zodiac signs and personality traits.
+# Elements and Modalities  
+
+Learn about the four elements (*Fire, Earth, Air, Water*) and the three modalities (*Cardinal, Fixed, Mutable*) that influence zodiac signs and personality traits.
 
 ## Main Categories  
 
@@ -14,6 +16,26 @@ Learn about the four elements (Fire, Earth, Air, Water) and the three modalities
 - [[elements-and-modalities/mutable|Mutable Signs 🌙]]  
 
 ---
-## Related Categories
+
+## Zodiac Signs Quick Reference  
+
+| Sign          | Element  | Modality   |
+| ------------- | -------- | ---------- |
+| Aries ♈       | Fire 🔥  | Cardinal ✨ |
+| Taurus ♉      | Earth 🌍 | Fixed 🛡   |
+| Gemini ♊      | Air 💨   | Mutable 🌙 |
+| Cancer ♋      | Water 💧 | Cardinal ✨ |
+| Leo ♌         | Fire 🔥  | Fixed 🛡   |
+| Virgo ♍       | Earth 🌍 | Mutable 🌙 |
+| Libra ♎       | Air 💨   | Cardinal ✨ |
+| Scorpio ♏     | Water 💧 | Fixed 🛡   |
+| Sagittarius ♐ | Fire 🔥  | Mutable 🌙 |
+| Capricorn ♑   | Earth 🌍 | Cardinal ✨ |
+| Aquarius ♒    | Air 💨   | Fixed 🛡   |
+| Pisces ♓      | Water 💧 | Mutable 🌙 |
+
+---
+
+## Related Categories  
 
 Understanding elements and modalities helps explain the characteristics of each [[zodiac-signs/index|zodiac sign]].
