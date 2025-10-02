@@ -1,24 +1,24 @@
 ---
 title: Air Signs
 ---
-# Air Signs 💨
+# Air Signs 💨  
 
-**Signs**: [[Gemini]], [[Libra]], [[Aquarius]]  
-**Element Traits**: Intellectual, communicative, curious  
+**Signs**: [[gemini|Gemini ♊]], [[libra|Libra ♎]], [[aquarius|Aquarius ♒]]  
+**Element Traits**: Intellectual · Curious · Communicative  
 
 ## Overview  
-Air signs represent thought, communication, and connection. They are adaptable, often the thinkers and dreamers of the zodiac. With a constant flow of ideas, they thrive in social interactions and intellectual debates.
+Air signs are thinkers, communicators, and innovators. They bring ideas, movement, and social connection to the zodiac. Their energy thrives on curiosity and exploring new perspectives.  
 
 ## Traits  
-- Curious and adaptable  
-- Social and expressive  
-- Innovative and forward-thinking  
-- Restless and easily bored  
+- Intellectual and imaginative  
+- Social and outgoing  
+- Curious and innovative  
+- Can be indecisive or detached
 
 ## Relationships  
-Air signs fuel the flames of **[[Fire]] signs**, sparking creativity and action. They may struggle with **[[Earth]] signs**, who find their ideas impractical, but they balance one another when they work together.  
+Air signs pair well with **[[fire|Fire Signs 🔥]]**, who turn their ideas into action. They may find **[[earth|Earth Signs 🌍]]** too slow, but Earth can help them ground their visions.
 
-> “Like the wind, air signs can’t be contained - they spread ideas everywhere.”
+> “The winds of change bring fresh perspectives.”
 
 ## Fun Fact  
-Air signs are often associated with inventors, writers, and visionaries who bring people together through ideas.
+Air signs are often associated with communication — from speeches to technology to networking.

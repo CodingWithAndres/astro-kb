@@ -1,25 +1,24 @@
 ---
 title: Fixed Signs 🛡
 ---
+# Fixed Signs 🛡  
 
-# Fixed Signs (Taurus, Leo, Scorpio, Aquarius)  
-**Dates**:  
-- Taurus: April 20 – May 20  
-- Leo: July 23 – August 22  
-- Scorpio: October 23 – November 21  
-- Aquarius: January 20 – February 18  
+**Signs**: [[taurus|Taurus ♉]], [[leo|Leo ♌]], [[scorpio|Scorpio ♏]], [[aquarius|Aquarius ♒]]  
+**Modality Traits**: Steady · Determined · Persistent  
+
+## Overview  
+Fixed signs are the stabilizers of the zodiac. They provide consistency, loyalty, and strength, maintaining momentum once something is started.  
 
 ## Traits  
-- Steady, determined, and reliable  
-- Resist change, value consistency  
-- Strong-willed and focused  
+- Determined and strong-willed  
+- Loyal and dependable  
+- Persistent and focused  
+- Can be stubborn or resistant to change  
 
 ## Relationships  
-Fixed signs provide grounding to **[[Cardinal]] signs** and structure to **[[Mutable]] signs**.  
-However, they may struggle when forced into rapid change.  
+Fixed signs work well with **[[cardinal|Cardinal Signs ✨]]** who provide direction and **[[mutable|Mutable Signs 🌙]]** who bring adaptability.  
 
-## Related Categories  
-- [[zodiac-signs/taurus|Taurus ♉]]  
-- [[zodiac-signs/leo|Leo ♌]]  
-- [[zodiac-signs/scorpio|Scorpio ♏]]  
-- [[zodiac-signs/aquarius|Aquarius ♒]]
+> “Steadiness is not stubbornness, but the strength to endure.”  
+
+## Fun Fact  
+Fixed signs fall in the middle of each season, symbolizing stability and endurance.

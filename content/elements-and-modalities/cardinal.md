@@ -1,25 +1,24 @@
 ---
 title: Cardinal Signs ✨
 ---
+# Cardinal Signs ✨  
 
-# Cardinal Signs (Aries, Cancer, Libra, Capricorn)  
-**Dates**:  
-- Aries: March 21 – April 19  
-- Cancer: June 21 – July 22  
-- Libra: September 23 – October 22  
-- Capricorn: December 22 – January 19  
+**Signs**: [[aries|Aries ♈]], [[cancer|Cancer ♋]], [[libra|Libra ♎]], [[capricorn|Capricorn ♑]]  
+**Modality Traits**: Leaders · Initiators · Visionaries  
+
+## Overview  
+Cardinal signs are the trailblazers of the zodiac. They mark the beginning of each season and bring energy, drive, and vision to new beginnings.  
 
 ## Traits  
-- Natural initiators and leaders  
-- Thrive at the start of new projects  
-- Bring fresh ideas and direction  
+- Ambitious and dynamic  
+- Goal-oriented and determined  
+- Visionary and pioneering  
+- Can be bossy or impatient  
 
 ## Relationships  
-Cardinal signs can clash with one another due to strong wills.  
-They balance well with **[[Fixed]] signs**, who ground their vision.  
+Cardinal signs often clash with each other over leadership but balance well with **[[fixed|Fixed Signs 🛡]]** who bring steadiness, and **[[mutable|Mutable Signs 🌙]]** who add flexibility.  
 
-## Related Categories  
-- [[zodiac-signs/aries|Aries ♈]]  
-- [[zodiac-signs/cancer|Cancer ♋]]  
-- [[zodiac-signs/libra|Libra ♎]]  
-- [[zodiac-signs/capricorn|Capricorn ♑]]
+> “Beginnings are always the hardest, but they carry the spark of creation.”  
+
+## Fun Fact  
+Each Cardinal sign aligns with a solstice or equinox, symbolizing turning points in the year.

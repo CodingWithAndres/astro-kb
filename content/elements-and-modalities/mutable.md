@@ -1,25 +1,24 @@
 ---
 title: Mutable Signs 🌙
 ---
+# Mutable Signs 🌙  
 
-# Mutable Signs (Gemini, Virgo, Sagittarius, Pisces)  
-**Dates**:  
-- Gemini: May 21 – June 20  
-- Virgo: August 23 – September 22  
-- Sagittarius: November 22 – December 21  
-- Pisces: February 19 – March 20  
+**Signs**: [[gemini|Gemini ♊]], [[virgo|Virgo ♍]], [[sagittarius|Sagittarius ♐]], [[pisces|Pisces ♓]]  
+**Modality Traits**: Adaptable · Flexible · Curious  
+
+## Overview  
+Mutable signs are the adapters of the zodiac. They bring flexibility, versatility, and the ability to transition smoothly between phases of life.  
 
 ## Traits  
-- Adaptable, flexible, and open to change  
-- Love learning and exploration  
-- Known as the “finishers” of the zodiac cycles  
+- Adaptable and flexible  
+- Curious and resourceful  
+- Creative and versatile  
+- Can be inconsistent or restless  
 
 ## Relationships  
-Mutable signs bring adaptability to partnerships with **[[Cardinal]]** and **[[Fixed]] signs**.  
-Sometimes they may seem inconsistent, but they encourage growth and transition.  
+Mutable signs balance well with **[[fixed|Fixed Signs 🛡]]** for stability and **[[cardinal|Cardinal Signs ✨]]** for direction.  
 
-## Related Categories  
-- [[zodiac-signs/gemini|Gemini ♊]]  
-- [[zodiac-signs/virgo|Virgo ♍]]  
-- [[zodiac-signs/sagittarius|Sagittarius ♐]]  
-- [[zodiac-signs/pisces|Pisces ♓]]
+> “Change is the only constant, and Mutable signs embrace it fully.”  
+
+## Fun Fact  
+Mutable signs close each season, symbolizing transitions and preparation for new beginnings.

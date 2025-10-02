@@ -1,24 +1,23 @@
 ---
 title: Water Signs
 ---
-# Water Signs 💧
+# Water Signs 💧  
 
-**Signs**: [[Cancer]], [[Scorpio]], [[Pisces]]
-**Element Traits**: Emotional, intuitive, empathetic  
+**Signs**: [[cancer|Cancer ♋]], [[scorpio|Scorpio ♏]], [[pisces|Pisces ♓]]  
+**Element Traits**: Intuitive · Emotional · Compassionate  
 
 ## Overview  
-Water signs symbolize depth, sensitivity, and intuition. They are connected to the emotional realm, often guided by feelings and instincts. They bring compassion, creativity, and healing to the zodiac.
-
+Water signs are intuitive, sensitive, and deeply emotional. They connect with others on a soul level and often carry wisdom through empathy, imagination, and creativity.  
 ## Traits  
-- Empathetic and nurturing  
-- Intuitive and spiritual  
-- Creative and imaginative  
-- Deeply emotional  
+- Intuitive and empathetic  
+- Compassionate and nurturing  
+- Creative and dreamy  
+- Can be moody or overly sensitive  
 
 ## Relationships  
-Water signs nourish **[[Earth]] signs**, creating stability with emotional depth. With **[[Fire]] signs**, sparks can fly - but they may clash between passion and sensitivity.  
+Water signs harmonize with **[[earth|Earth Signs 🌍]]**, who provide grounding and support. They may clash with **[[fire|Fire Signs 🔥]]**, but fire can help water find strength in vulnerability.  
 
-> “Still waters run deep, and so do the hearts of water signs.”
+> “Water is the softest thing, yet it can penetrate mountains and earth.”  
 
 ## Fun Fact  
-Many water signs are drawn to artistic expression, from painting to music, as a way to process and share emotions.
+Water signs are often natural healers, artists, or spiritual guides. 
