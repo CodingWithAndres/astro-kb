@@ -1,15 +1,8 @@
 # Major Aspects 🔭  
 
-Aspects describe the angles planets form with one another, symbolizing how their energies interact.  
+Aspects describe the angles planets form with one another, symbolizing how their energies interact. The five major aspects form the backbone of astrological interpretation.  
 
-## Key Aspects  
-
-- **Conjunction (0°)** → Blends energies together, powerful unity.  
-- **Opposition (180°)** → Tension, balance between opposites.  
-- **Trine (120°)** → Easy flow, natural harmony.  
-- **Square (90°)** → Challenge, friction that sparks growth.  
-- **Sextile (60°)** → Opportunity, supportive energy.
-
+---
 ## Aspects Quick Reference  
 
 | Aspect       | Angle | Core Meaning                 | Keywords                     |
@@ -23,7 +16,6 @@ Aspects describe the angles planets form with one another, symbolizing how their
 > “Aspects reveal how planets talk to each other in the sky — sometimes in harmony, sometimes in challenge.”  
 
 ---
-
 ## Why Aspects Matter  
 
 Aspects shape the *tone* of your chart. They reveal whether planetary energies:  
@@ -32,8 +24,8 @@ Aspects shape the *tone* of your chart. They reveal whether planetary energies:
 - Or drive growth through dynamic tension  
 
 ---
-
 ## Related Categories  
 
-- [[planets-and-influence/index|Planets & Influence]]  
-- [[elements-and-modalities/index|Elements & Modalities]]  
+- [[zodiac-signs/index|Zodiac Signs ♈]]  
+- [[planets-and-influence/index|Planets & Influence 🌌]]  
+- [[elements-and-modalities/index|Elements & Modalities 🔥💧🌍💨]]  

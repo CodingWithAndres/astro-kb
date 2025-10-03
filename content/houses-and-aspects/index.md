@@ -45,6 +45,6 @@ Learn about the 12 houses that represent different areas of life and the major a
 ---
 ## Related Categories  
 
-- [[planets-and-influence/index|Planets & Influence 🌌]]  
 - [[zodiac-signs/index|Zodiac Signs ♈]]  
+- [[planets-and-influence/index|Planets & Influence 🌌]]  
 - [[elements-and-modalities/index|Elements & Modalities 🔥💧🌍💨]] 

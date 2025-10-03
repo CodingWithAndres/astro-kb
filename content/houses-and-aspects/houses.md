@@ -2,6 +2,7 @@
 
 Each house represents a different life area. Together, they form a complete wheel of human experience.  
 
+---
 ## Houses Reference Table
 
 | House | Theme                         | Core Focus                               | Keywords                          |
@@ -23,8 +24,8 @@ Each house represents a different life area. Together, they form a complete whee
 > “The houses are where the action happens — they show *where* planetary energies play out in your life.”  
 
 ---
+## Related Categories
 
-## Related Categories  
-
-- [[planets-and-influence/index|Planets & Influence]]  
-- [[zodiac-signs/index|Zodiac Signs]]  
+- [[zodiac-signs/index|Zodiac Signs ♈]]  
+- [[planets-and-influence/index|Planets & Influence 🌌]]  
+- [[elements-and-modalities/index|Elements & Modalities 🔥💧🌍💨]]  
