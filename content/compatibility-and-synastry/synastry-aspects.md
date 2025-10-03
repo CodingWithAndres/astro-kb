@@ -1,4 +1,4 @@
-# Important Synastry Aspects 🔭💞  
+# Important Synastry Aspects 🔀  
 
 Synastry compares the angles (aspects) formed between planets in two people’s charts. These aspects show how energies interact in relationships — whether they create ease, tension, or powerful attraction.  
 

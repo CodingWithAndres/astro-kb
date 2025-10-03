@@ -38,5 +38,5 @@ In astrology, **Venus** represents love, romance, attraction style, and what we 
 ## Related Categories  
 
 - [[compatibility-and-synastry/sun-moon|Sun & Moon Dynamics 🌞🌙]]  
-- [[compatibility-and-synastry/synastry-aspects|Important Synastry Aspects 🔭]]  
+- [[compatibility-and-synastry/synastry-aspects|Important Synastry Aspects 🔀]]  
 - [[zodiac-signs/index|Zodiac Signs ♈]]  

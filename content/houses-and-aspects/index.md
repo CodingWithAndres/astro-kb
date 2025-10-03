@@ -8,8 +8,6 @@ Learn about the 12 houses that represent different areas of life and the major a
 ---
 ## Quick Reference
 
-### The 12 Houses 🏡  
-
 | House | Theme                  |
 |-------|------------------------|
 | 1st   | Self & Identity        |
@@ -37,7 +35,7 @@ Learn about the 12 houses that represent different areas of life and the major a
 | Sextile      | 60°   | Opportunity, support   |
 
 ---
-## Main Pages  
+## Main Topics 
 
 - [[houses-and-aspects/houses|The 12 Houses of Astrology 🏡]]  
 - [[houses-and-aspects/aspects|Major Aspects 🔭]]  

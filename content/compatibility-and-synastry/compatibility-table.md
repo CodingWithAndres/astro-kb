@@ -26,4 +26,4 @@ This table gives a quick snapshot of how the 12 zodiac signs generally interact 
 - [[zodiac-signs/index|Zodiac Signs ♈]]  
 - [[compatibility-and-synastry/sun-moon|Sun & Moon Dynamics 🌞🌙]]  
 - [[compatibility-and-synastry/venus-mars|Venus & Mars in Love ❤️🔥]]  
-- [[compatibility-and-synastry/synastry-aspects|Important Synastry Aspects 🔭]]  
+- [[compatibility-and-synastry/synastry-aspects|Important Synastry Aspects 🔀]]  
