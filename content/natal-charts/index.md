@@ -7,28 +7,24 @@ A natal chart (or birth chart) is like a cosmic map — a snapshot of the sky at
 
 ---
 
-## What’s Inside a Natal Chart  
-- **Planets** → Show *what* energies are active.  
-- **Zodiac Signs** → Show *how* those energies express themselves.  
-- **Houses** → Show *where* those energies play out in life.  
-- **Aspects** → Show *how* those energies interact.  
+## Learning Path  
 
-Together, these elements create a personalized blueprint of your inner world and life journey.  
+1. [[natal-charts/how-to-read|How to Read a Natal Chart 📖]]  
+   → Learn the basics of what a natal chart is and how to interpret it step by step.  
 
----
+2. [[natal-charts/sample-chart|Sample Chart Example 🗂]]  
+   → See an example chart broken down into placements with a quick interpretation.  
 
-## Main Pages  
-- [[natal-charts/how-to-read|How to Read a Natal Chart 📖]]  
-- [[natal-charts/sample-chart|Sample Chart Example 📝]]  
-- [[natal-charts/tools|Tools & Resources 🔧]]  
+3. [[natal-charts/tools|Tools & Resources 🔧]]  
+   → Explore online generators, books, and apps to create and study your own chart.  
 
 ---
 
 ## Why It Matters  
 Studying a natal chart helps answer deeper questions:  
-- What motivates me?  
-- Where do I shine the brightest?  
-- What challenges push me toward growth?  
+- *What* motivates me?  
+- *Where* do I shine the brightest?  
+- *What* challenges push me toward growth?  
 
 > “Your natal chart is not your destiny — it’s your guide.”  
 
