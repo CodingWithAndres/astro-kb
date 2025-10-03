@@ -27,14 +27,14 @@ Studying a natal chart helps answer deeper questions:
 
 ---
 
-## Main Pages  
+## Main Pages
 - [[natal-charts/how-to-read|How to Read a Natal Chart 📖]]  
 - [[natal-charts/sample-chart|Sample Chart Example 🗂]]  
 - [[natal-charts/tools|Tools & Resources 🔧]]  
 
 ---
 
-## Related Categories  
+## Related Categories
 - [[planets-and-influence/index|Planets & Influence 🌌]]  
 - [[zodiac-signs/index|Zodiac Signs ♈]]  
 - [[houses-and-aspects/index|Houses & Aspects 🏡]]  
